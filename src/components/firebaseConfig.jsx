@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 import {initializeFirestore, persistentLocalCache } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDVMhk4-La8nK63C6rsphn16CPWIrmFbmA",
+  apiKey: "Your_Api_Key",
   authDomain: "final-project-8c053.firebaseapp.com",
   projectId: "final-project-8c053",
   storageBucket: "final-project-8c053.appspot.com",
